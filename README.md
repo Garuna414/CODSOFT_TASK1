@@ -27,17 +27,6 @@ npm install
 npm start
 Open your browser and visit http://localhost:3000 to view the tribute page.
 
-├── public/                  # Public assets and index.html
-├── src/                     # Source files
-│   ├── components/          # React components
-│   ├── images/              # Images used in the project
-│   ├── styles/              # Custom CSS or Tailwind CSS styles
-│   ├── App.js               # Main component file
-│   └── index.js             # Entry point
-├── .gitignore               # Git ignore file
-├── package.json             # Project dependencies and scripts
-└── README.md                # Project documentation (you are here!)
-
 Credits
 Mahatma Gandhi's biography and quotes sourced from Wikipedia and other historical resources.
 Icons and images used are credited to Wikipedia.
